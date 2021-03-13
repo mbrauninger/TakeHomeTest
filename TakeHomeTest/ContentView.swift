@@ -7,8 +7,6 @@
 
 import SwiftUI
 
-import SwiftUI
-
 /*
  
  Take home coding assignment - Michael Brauninger
